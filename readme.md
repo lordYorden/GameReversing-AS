@@ -15,7 +15,7 @@ Submitted By: [@lordYorden](https://github.com/lordYorden/)
     ```
 9. Then saw there was a `zero-width-character (zwnj)` in `string.url` fixed it and got a valid [pastebin link](https://pastebin.com/raw/T67TVJG9)
 10. ran the app and got the following screen after i entered my id:
-![won](./docs/arrows.png)
+![arrows](./docs/arrows.png)
 
 11. Read the code and understand that the combination is generate base on the `ID`, with the following code:
     ```java
